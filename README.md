@@ -124,8 +124,9 @@ a.p:hover span {
 
 <div style="background-color:rgba(0,255,0,0.5)"> 
 
-
+<!--
 <a href="20220802_001.JPG" data-lightbox="abc"><img src="20220802_001.JPG" alt="サンプル画像" width="900" /></a>
+-->
 
 <a href="20220802_002.JPG" data-lightbox="abc"><img src="20220802_002.JPG" alt="サンプル画像" width="900" /></a>
 	
